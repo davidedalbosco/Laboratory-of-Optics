@@ -3,3 +3,5 @@ Repository containing the notebooks for the data analysis of a full laboratory o
 
 ## Content
 * **Exp 1** - Determination of the index of refraction of unknown media
+* **Exp 2** - Various examples of diffraction
+
